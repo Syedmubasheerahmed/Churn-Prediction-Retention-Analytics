@@ -57,6 +57,8 @@ Explores churn patterns across the customer base:
 
 ![2](Outpts/churn_analysis_dashboard.png)
 
+Churn Overview
+
 ![3](Outpts/churn_overview.png)
 
 Notebook 2: Model_Building.ipynb
