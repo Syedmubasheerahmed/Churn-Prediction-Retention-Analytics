@@ -55,9 +55,9 @@ Explores churn patterns across the customer base:
 
 - Identification of high-risk customer groups
 
-<img width="4762" height="2966" alt="churn_analysis_dashboard" src="https://github.com/user-attachments/assets/b5ab652f-5070-454e-b72a-265c0ca1b530" />
+![2](Outpts/churn_analysis_dashboard.png)
 
-<img width="3794" height="1466" alt="churn_overview" src="https://github.com/user-attachments/assets/e6380173-855e-4c31-a5e8-3a830dc25eef" />
+![3](Outpts/churn_overview.png)
 
 Notebook 2: Model_Building.ipynb
 
@@ -71,7 +71,7 @@ Develops and compares three classification models:
 
 - Selection of best-performing model
 
-<img width="4170" height="1470" alt="model_performance" src="https://github.com/user-attachments/assets/e3365f7c-0ffe-46d9-908d-cc0b8912590d" />
+![4](Outputs/model_performance.png)
 
 Notebook 3: Risk_Segmentation.ipynb
 
@@ -87,6 +87,8 @@ Applies model to all customers and creates actionable outputs:
 
 - Develops retention strategies for each risk level
 
+![5](Outputs/risk_distribution.png)
+
 ## Power BI Dashboard
 
 - Churn Analysis Dashboard (interactive executive dashboard)
@@ -99,19 +101,19 @@ Applies model to all customers and creates actionable outputs:
 
 # Home 
 
-<img width="1327" height="740" alt="1" src="https://github.com/user-attachments/assets/1346d412-6c06-4169-a1df-dbbdf86f21c6" />
+![6](Outputs/1.png)
 
 # Overview
 
-<img width="1325" height="745" alt="2" src="https://github.com/user-attachments/assets/5b5ba70e-0b9c-46f8-bfc9-0b1ca3922b40" />
+![7](Outputs/2.png)
 
 # Risk Analysis
 
-<img width="1326" height="744" alt="3" src="https://github.com/user-attachments/assets/bf95e779-ac93-4937-9445-15887de74fef" />
+![8](Outputs/3.png)
 
 # Action Plan
 
-<img width="1328" height="744" alt="4" src="https://github.com/user-attachments/assets/2571c7ea-b818-4efd-99f1-f83651b0d2b5" />
+![9](Outputs/4.png)
 
 ## Key Findings
 
