@@ -55,11 +55,9 @@ Explores churn patterns across the customer base:
 
 - Identification of high-risk customer groups
 
-![2](Outpts/churn_analysis_dashboard.png)
+![2](Outputs/churn_analysis_dashboard.png)
 
-Churn Overview
-
-![3](Outpts/churn_overview.png)
+![3](Outputs/churn_overview.png)
 
 Notebook 2: Model_Building.ipynb
 
