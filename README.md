@@ -1,7 +1,7 @@
 # TELCO CUSTOMER CHURN PREDICTION & RETENTION ANALYTICS
 
 ## Project Overview
-<img width="1327" height="740" alt="1" src="https://github.com/user-attachments/assets/119f6402-4f09-48b0-b8e0-a5c59089f0d5" />
+!(Outputs/1.png)
 
 A comprehensive machine learning and data analytics project analyzing 7,043 telecommunications customers to predict churn risk and develop targeted retention strategies. This hands-on learning project demonstrates the complete analytics pipeline: exploratory data analysis → predictive modeling → business intelligence → actionable recommendations.
 
